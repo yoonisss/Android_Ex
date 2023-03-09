@@ -30,6 +30,11 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+//원본 프로젝트에 test6 모듈 안에 build.gradle 파일에서 복사했음.
+viewBinding {
+    enabled = true
+}
 }
 
 dependencies {
