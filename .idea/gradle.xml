@@ -15,15 +15,22 @@
             <option value="$PROJECT_DIR$/app/mytest1" />
             <option value="$PROJECT_DIR$/app/test6_6" />
             <option value="$PROJECT_DIR$/app/test7-2" />
+            <option value="$PROJECT_DIR$/ch10_test_2" />
+            <option value="$PROJECT_DIR$/ch11_jetpack" />
+            <option value="$PROJECT_DIR$/ch12_material" />
             <option value="$PROJECT_DIR$/ch7_layout" />
             <option value="$PROJECT_DIR$/ch8_exercise" />
+            <option value="$PROJECT_DIR$/ch9_resource" />
             <option value="$PROJECT_DIR$/mytest1" />
             <option value="$PROJECT_DIR$/mytest1/test3_2" />
             <option value="$PROJECT_DIR$/mytest1/test6_6" />
+            <option value="$PROJECT_DIR$/test11" />
+            <option value="$PROJECT_DIR$/test12" />
             <option value="$PROJECT_DIR$/test3" />
             <option value="$PROJECT_DIR$/test7_3" />
             <option value="$PROJECT_DIR$/test8_2" />
             <option value="$PROJECT_DIR$/test9" />
+            <option value="$PROJECT_DIR$/test_10" />
           </set>
         </option>
       </GradleProjectSettings>

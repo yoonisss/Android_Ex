@@ -12,4 +12,30 @@
         android:layout_height="300dp"
         android:src="@drawable/gradient_box" />
 
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_data1"
+        android:textSize="30sp"
+        android:textColor="@color/button_text"/>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="버튼 뷰 변경"
+        android:textSize="30sp"
+        android:textColor="@color/button_text"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="text Color"
+        android:textSize="40sp"
+        android:textColor="@color/button_text"
+        android:fontFamily="@font/cookierunregular"
+        android:background="@color/purple_700"
+        android:backgroundTint="#E91E63"/>
+
 </LinearLayout>

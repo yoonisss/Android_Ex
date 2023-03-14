@@ -20,7 +20,7 @@ class MainActivity242 : AppCompatActivity() {
 
         binding.imageView.setImageDrawable(
             ResourcesCompat.getDrawable(resources,
-            android.R.drawable.alert_dark_frame, null))
+            android.R.drawable.btn_star, null))
         binding.textView.text=getString(android.R.string.emptyPhoneNumber)
 
     }
