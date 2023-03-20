@@ -23,7 +23,10 @@
             <option value="$PROJECT_DIR$/ch16_provider" />
             <option value="$PROJECT_DIR$/ch16_provider_test" />
             <option value="$PROJECT_DIR$/ch17_database" />
+            <option value="$PROJECT_DIR$/ch17_database_preference" />
             <option value="$PROJECT_DIR$/ch17_database_test" />
+            <option value="$PROJECT_DIR$/ch18_network" />
+            <option value="$PROJECT_DIR$/ch18_test" />
             <option value="$PROJECT_DIR$/ch20_firebase" />
             <option value="$PROJECT_DIR$/ch7_layout" />
             <option value="$PROJECT_DIR$/ch8_exercise" />
@@ -38,6 +41,7 @@
             <option value="$PROJECT_DIR$/test16-1" />
             <option value="$PROJECT_DIR$/test17" />
             <option value="$PROJECT_DIR$/test17_1" />
+            <option value="$PROJECT_DIR$/test18" />
             <option value="$PROJECT_DIR$/test3" />
             <option value="$PROJECT_DIR$/test7_3" />
             <option value="$PROJECT_DIR$/test8_2" />
